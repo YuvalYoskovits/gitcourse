@@ -1,2 +1,4 @@
 this is file 1
-conflicting line AAAAAAAAAAA
+
+conflicting line AAAAAAAAAAA and BBBBBBBBB solved
+
